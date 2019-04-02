@@ -1,3 +1,7 @@
-modifier deuxième fois \n
-changement sur github \n
+modifier deuxième fois
+
+changement sur github
+
 troisième changement conflit
+
+une modif depuis atom
